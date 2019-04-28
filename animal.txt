@@ -1,0 +1,7 @@
+﻿CREATE TABLE animal
+(
+    id integer,
+    nickname character varying(30) ,
+    typeanimal character varying(30) ,
+    age integer
+)

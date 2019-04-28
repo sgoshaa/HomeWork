@@ -1,0 +1,14 @@
+C:\Users\user\source\repos\MOdulschool\MOdulschool\bin\Debug\netcoreapp2.2\MOdulschool.deps.json
+C:\Users\user\source\repos\MOdulschool\MOdulschool\bin\Debug\netcoreapp2.2\MOdulschool.runtimeconfig.json
+C:\Users\user\source\repos\MOdulschool\MOdulschool\bin\Debug\netcoreapp2.2\MOdulschool.runtimeconfig.dev.json
+C:\Users\user\source\repos\MOdulschool\MOdulschool\bin\Debug\netcoreapp2.2\MOdulschool.dll
+C:\Users\user\source\repos\MOdulschool\MOdulschool\bin\Debug\netcoreapp2.2\MOdulschool.pdb
+C:\Users\user\source\repos\MOdulschool\MOdulschool\obj\Debug\netcoreapp2.2\MOdulschool.csprojAssemblyReference.cache
+C:\Users\user\source\repos\MOdulschool\MOdulschool\obj\Debug\netcoreapp2.2\MOdulschool.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\MOdulschool\MOdulschool\obj\Debug\netcoreapp2.2\MOdulschool.RazorAssemblyInfo.cache
+C:\Users\user\source\repos\MOdulschool\MOdulschool\obj\Debug\netcoreapp2.2\MOdulschool.RazorAssemblyInfo.cs
+C:\Users\user\source\repos\MOdulschool\MOdulschool\obj\Debug\netcoreapp2.2\MOdulschool.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\MOdulschool\MOdulschool\obj\Debug\netcoreapp2.2\MOdulschool.AssemblyInfo.cs
+C:\Users\user\source\repos\MOdulschool\MOdulschool\obj\Debug\netcoreapp2.2\MOdulschool.RazorTargetAssemblyInfo.cache
+C:\Users\user\source\repos\MOdulschool\MOdulschool\obj\Debug\netcoreapp2.2\MOdulschool.dll
+C:\Users\user\source\repos\MOdulschool\MOdulschool\obj\Debug\netcoreapp2.2\MOdulschool.pdb
